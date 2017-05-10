@@ -8,6 +8,7 @@ Created on Tue May  9 21:38:07 2017
 
 """
 Convert DNA sequences to RNA.
+Return sequences with the same capitalization.
 """
 
 def rna(seq):
